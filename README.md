@@ -8,6 +8,7 @@
 ## Overview of the Project
 
 ### Project: Text-based Hangman Game
+![Screenshot 2025-06-04 120149](https://github.com/user-attachments/assets/b11135fa-84a4-4694-85aa-77fe2c84541c)
 
 ### Objective
 The objective of this project is a **Text-based Hangman game** where the player guesses a hidden word letter by letter, with a limit of 6 incorrect attempts. Built with Python for beginners to understand core programming concepts.  
