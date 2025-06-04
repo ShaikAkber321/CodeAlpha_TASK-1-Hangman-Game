@@ -1,8 +1,8 @@
 # Hangman Game (Python)  
 **Name**: SHAIK AKBER  
-**Company**: CODE ALPHA
-**Id**: CA/JU3/2297
-**Domain**: Python Programming
+**Company**: CODE ALPHA  
+**Id**: CA/JU3/2297  
+**Domain**: Python Programming  
 **Duration**: 5th June 2025 to 5th September 2025 
 
 ## Overview of the Project
@@ -29,10 +29,3 @@ The objective of this project is a **Text-based Hangman game** where the player 
 - **String Manipulation**: Replaces underscores (`_`) with correctly guessed letters.  
 - **List Operations**: Tracks guessed letters to avoid repeats.  
 - **Error Handling**: Validates user input (single alphabetic characters only).
-
-### How to Run  
-1. Ensure Python 3 is installed.  
-2. Download/Copy the `hangman.py` script.  
-3. Run in terminal:  
-   ```bash  
-   python hangman.py  
